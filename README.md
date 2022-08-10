@@ -3,6 +3,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
+[![My Skills](https://skillicons.dev/icons?i=react,python,java,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,)](https://skillicons.dev)
 <!--
 **cypriankanda/cypriankanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
