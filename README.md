@@ -20,3 +20,5 @@ Languages and Tools: <br/>
 iam a fullstack developer, designer and a campus student. i'm interested in development, visualization and building. <br/>
  I work on random projects in my free time, a lot involving Figma.
  
+ {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
+ 
