@@ -4,15 +4,15 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 - 🔭 I’m a computer science student from Kenya.
-- <br/>
+ <br/>
 - 🌱 I’m currently learning mySQL, advanced python and AWS.
-- <br/>
+ <br/>
 - 💬 Ask me about HTML, CSS , JavaScript.
-- <br/>
+ <br/>
 - 📫 How to reach me: cyprianboit@gmail.com
-- <br/>
+ <br/>
 - ⚡ Fun fact: 
-- <br/>
+ <br/>
 Languages and Tools: <br/>
 iam a fullstack developer, designer and a campus student. i'm interested in development, visualization and building. <br/>
  I work on random projects in my free time, a lot involving Figma.
