@@ -3,19 +3,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
+- 🔭 I’m a computer science student from Kenya.
+- 🌱 I’m currently learning mySQL, advanced python and AWS.
+- 💬 Ask me about HTML, CSS , JavaScript.
+- 📫 How to reach me: cyprianboit@gmail.com
+- ⚡ Fun fact: 
+Languages and Tools:
+iam a fullstack developer, designer and a campus student. i'm interested in development, visualization and building.
+ I work on random projects in my free time, a lot involving Figma.
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,flutter&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,)](https://skillicons.dev)
-<!--
-**cypriankanda/cypriankanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
