@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
-### A Software Engineer!
+
 - 🔭 I’m a computer science student from Kenya.
  <br/>
 - 🌱 I’m currently learning mySQL, advanced python and AWS.
@@ -19,7 +19,6 @@
  <br/>
  ### Connect with me
  
- (<img align="left" alt="ckb | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />){linkedin}
  
  
 Languages and Tools: <br/>
