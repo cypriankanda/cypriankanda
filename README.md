@@ -19,7 +19,7 @@
  <br/>
  ### Connect with me
  
- [<img align="left" alt="ckb | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />]{linkenin}
+ (<img align="left" alt="ckb | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />){linkedin}
  
  
 Languages and Tools: <br/>
