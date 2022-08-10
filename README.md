@@ -12,4 +12,4 @@ Languages and Tools:
 iam a fullstack developer, designer and a campus student. i'm interested in development, visualization and building.
  I work on random projects in my free time, a lot involving Figma.
  
-[![My Skills](https://skillicons.dev/icons flutter,s! css,s! html,s!)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons flutter s!, css s!, html s!,)](https://skillicons.dev)
