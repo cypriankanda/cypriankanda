@@ -1,5 +1,8 @@
 ### Hi I'm Cyprian Kanda  👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+end+developer;)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+</div>
 <!--
 **cypriankanda/cypriankanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
