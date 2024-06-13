@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m a computer science student from Kenya.
+- 🔭 I’m a Product Designer from Earth 😅.
  <br/>
-- 🌱 I’m currently learning android development, DevOPS and Cybersecurity.
+- 🌱 I’m currently learning Android Development, DevOPS and Cybersecurity.
  <br/>
 - 💬 Ask me about Design and Javascript.
  <br/>
