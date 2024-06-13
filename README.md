@@ -14,8 +14,10 @@
 - 💬 Ask me about HTML, CSS , JavaScript.
  <br/>
 - 📫 How to reach me: cyprianboit@gmail.com
-- {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
+<br/>
 - {Portfolio}: https://cyprian-portfolio.webflow.io/
+<br/>
+- {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
  <br/>
 - ⚡ Fun fact: i love debugging. i feel like a superhero.
  <br/>
