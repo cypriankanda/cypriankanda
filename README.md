@@ -14,16 +14,13 @@
 - 💬 Ask me about HTML, CSS , JavaScript.
  <br/>
 - 📫 How to reach me: cyprianboit@gmail.com
+- {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
+- {Portfolio}: https://cyprian-portfolio.webflow.io/
  <br/>
 - ⚡ Fun fact: i love debugging. i feel like a superhero.
  <br/>
- ### Connect with me
- 
- 
  
 Languages and Tools: <br/>
 iam a fullstack developer, designer and a campus student. i'm interested in development, visualization and building. <br/>
  I work on random projects in my free time, a lot involving Figma.
- 
- {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
  
