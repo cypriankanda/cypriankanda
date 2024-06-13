@@ -9,9 +9,9 @@
 
 - 🔭 I’m a computer science student from Kenya.
  <br/>
-- 🌱 I’m currently learning mySQL, advanced python and AWS.
+- 🌱 I’m currently learning android development, DevOPS and Cybersecurity.
  <br/>
-- 💬 Ask me about HTML, CSS , JavaScript.
+- 💬 Ask me about Design and Javascript.
  <br/>
 - 📫 How to reach me: cyprianboit@gmail.com
 <br/>
