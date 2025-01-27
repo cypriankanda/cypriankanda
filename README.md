@@ -13,12 +13,16 @@
  <br/>
 - 💬 Ask me about Design and Javascript.
  <br/>
-- 📫 How to reach me: cyprianboit@gmail.com
+- 📫 How to reach me: cypriankkanda@gmail.com
 <br/>
 - {Portfolio}: https://cyprian-portfolio.webflow.io/
 <br/>
 - {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
  <br/>
+
+- {Behance}: https://www.behance.net/cyprianboit
+ <br/>
+ 
 - ⚡ Fun fact: i love debugging. i feel like a superhero.
  <br/>
  
