@@ -9,7 +9,7 @@
 
 - 🔭 I’m a Product Designer from Earth 😅.
  <br/>
-- 🌱 I’m currently learning Android Development, DevOPS and Cybersecurity.
+- 🌱 I’m currently learning Full Stack Engineering and Cybersecurity.
  <br/>
 - 💬 Ask me about Design and Javascript.
  <br/>
