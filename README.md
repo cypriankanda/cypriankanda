@@ -15,7 +15,9 @@
  <br/>
 - 📫 How to reach me: cypriankkanda@gmail.com
 <br/>
-- {Portfolio}: https://cyprian-portfolio.webflow.io/
+- {Portfolio}:
+https://cypriankanda.github.io/cyprian-portfolio/
+ https://cyprian-portfolio.webflow.io/
 <br/>
 - {LinkedIn}: https://www.linkedin.com/in/cyprian-kanda-boit/
  <br/>
